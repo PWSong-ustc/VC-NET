@@ -24,7 +24,7 @@ Implementation for paper **Label-free Prediction of Connectivity in Perfused Mic
 
 ## Training
 If you want to train your own model, please run:
-···
+```
 
 python train.py \ 
   --batch_size  8 \ 
@@ -33,7 +33,7 @@ python train.py \
   --device 'cuda' \  
   --data-path 'your_dataset_path' \ 
   --output-dir 'your_output_path'
-···
+```
 
 ## Prediction
 Once you have the trained model, you can obtain the prediction image for a single image.  
