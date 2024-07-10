@@ -38,7 +38,7 @@ python train.py \
 Once you have the trained model, you can obtain the prediction image for a single image.  
 Simpliy run： `python predict_multi_class.py `
 
-## Results and Weights 
+## Results
 ### Weights
 To get the best model and the best center weights, [please download in this link](https://drive.google.com/drive/folders/15aGK6R0rNf_ARf3sgIAVS6wS_3W-jJeu?usp=drive_link)  
 
