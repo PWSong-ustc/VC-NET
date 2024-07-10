@@ -20,3 +20,12 @@
 * medpy>=0.4.0
 * scikit-learn>=1.1.2
 * imgaug>=0.4.0
+  
+## Training
+`python train.py --data-path 'your_dataset_path'  --device 'cuda' --num_classes 2`
+
+## Test
+`python predict_multi_class.py `
+
+## References
+[MPSCL]_(https://github.com/TFboys-lzz/MPSCL)
