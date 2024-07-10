@@ -1,5 +1,5 @@
 # VC-NET
-Implementation for paper **Label-free Prediction of Connectivity in Perfused Microvascular Networks in Vitro based on Deep Learning **
+Implementation for paper **Label-free Prediction of Connectivity in Perfused Microvascular Networks in Vitro based on Deep Learning**
 ## Installation
 ### Requirements
 * timm>=0.4.12
