@@ -25,7 +25,6 @@ Implementation for paper **Label-free Prediction of Connectivity in Perfused Mic
 ## Training
 If you want to train your own model, please run:
 ```
-
 python train.py \ 
   --batch_size  8 \ 
   --num_classes 2 \ 
