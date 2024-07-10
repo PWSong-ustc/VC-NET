@@ -38,4 +38,4 @@ For the MVNs_connectivity_dataset, please contact us(xul666@mail.ustc.edu.cn).
 
 ## References
 * [MPSCL](https://github.com/TFboys-lzz/MPSCL)
-* [MoCo](https://github.com/facebookresearch/moco?tab=MIT-1-ov-file)
+* [MoCo](https://github.com/facebookresearch/moco)
