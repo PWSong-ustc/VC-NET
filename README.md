@@ -23,6 +23,8 @@ Implementation for paper Label-free prediction of connectivity in perfused micro
 * imgaug>=0.4.0
 
 ## Training
+If you want to train your own model, please run:
+
 `python train.py  --data-path 'your_dataset_path'  --device 'cuda'  --b 8  --num_classes 2  --lr 0.01  --output-dir 'your_output_path'`
 
 ## Prediction
