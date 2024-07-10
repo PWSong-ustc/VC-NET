@@ -28,4 +28,4 @@
 `python predict_multi_class.py `
 
 ## References
-[MPSCL]_(https://github.com/TFboys-lzz/MPSCL)
+* [MPSCL](https://github.com/TFboys-lzz/MPSCL)
