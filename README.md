@@ -23,11 +23,11 @@ Implementation for paper **Label-free Prediction of Connectivity in Perfused Mic
 * imgaug>=0.4.0
 
 ## Training
-If you want to train your own model, please run:
+If you want to train your own model, please run:  
 `python train.py  --data-path 'your_dataset_path'  --device 'cuda'  --b 8  --num_classes 2  --lr 0.01  --output-dir 'your_output_path'`
 
 ## Prediction
-Once you have the trained model, you can obtain the prediction image for a single image.
+Once you have the trained model, you can obtain the prediction image for a single image.  
 Simpliy run： `python predict_multi_class.py `
 
 ## Results and Models 
