@@ -27,7 +27,9 @@ Implementation for paper Label-free prediction of connectivity in perfused micro
 
 ## Prediction
 Once you have the trained model, you can obtain the prediction image for a single image.
+
 Simpliy run：
+
 `python predict_multi_class.py `
 
 ## Results and Models 
