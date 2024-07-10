@@ -40,7 +40,7 @@ Simpliy run： `python predict_multi_class.py `
 
 ## Results
 ### Weights
-To get the best model and the best center weights, [please download in this link](https://drive.google.com/drive/folders/15aGK6R0rNf_ARf3sgIAVS6wS_3W-jJeu?usp=drive_link)  
+To get the best model and the best center weights, [please download in this link](https://drive.google.com/drive/folders/15aGK6R0rNf_ARf3sgIAVS6wS_3W-jJeu?usp=sharing)  
 
 ### Dataset
 For the MVNs_connectivity_dataset, please contact us(xul666@mail.ustc.edu.cn).
