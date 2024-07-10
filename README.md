@@ -23,8 +23,9 @@ Implementation for paper **Label-free Prediction of Connectivity in Perfused Mic
 * imgaug>=0.4.0
 
 ## Training
-If you want to train your own model, please run:  
+If you want to train your own model, please run:
 ···
+
 python train.py \ 
   --batch_size  8 \ 
   --num_classes 2 \ 
