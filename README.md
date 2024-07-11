@@ -36,7 +36,7 @@ python train.py \
 
 ## Prediction
 Once you have the trained model, you can obtain the prediction image for a single image.  
-Simpily run： `python predict_multi_class.py `
+Simply run： `python predict_multi_class.py `
 
 ## Results
 ### Weights
